@@ -9,6 +9,10 @@ Welcome to my GitHub page! I'm Sarmad Mansoor, a passionate software developer w
 
 With expertise in **Ruby on Rails, MERN (MongoDB, Express.js, React.js, Node.js), and Flutter**, I have contributed to a wide range of projects, from innovative startups to large-scale enterprise solutions. My work spans across diverse domains including SaaS, sports analytics, social networking, e-commerce, and mental wellness applications.
 
+## My Work
+### [Rails Snippets Repository](https://github.com/mrsahibzada/RailsSnippets)
+A collection of Ruby on Rails code snippets and patterns I've found useful in my projects.
+
 ## Featured Projects
 
 ### [The Walt](https://www.thewalt.io)
